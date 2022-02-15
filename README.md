@@ -15,5 +15,5 @@ This is a code used to realize end-to-end learning for self-driving cars and CNN
 * data from simulator is in '.csv'  format. It includes 'center','left','right','steering','throttle','reverse','speed'
 * 'center','left','right' means there are three cameras in front end of car,and they record pictures.
 
-## Attention
-* In this project there is a local client which connect to simulator server.
+## Simulator
+* [Download link](https://1drv.ms/u/s!AiEqC-drbhQ3gQh6X2NsEYt0Rg5D?e=TgDp9k)
